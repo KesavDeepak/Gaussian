@@ -10,8 +10,10 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Algorithm
 1. import numpy and sys to use the built-in functions for calculation.
 2. Get the size of the matrix (order) from the user and initialize an empty matrix and vector
-3. use 
-4. 
+3. Using for loop get elements of the matrix and vector from the user.
+4. Using another for loop to take each element in the matrix and solve in row echloen form.
+5. Perform back subsitution and print the values with two decimal places.
+6. End the Program.
 
 ## Program:
 ```python
